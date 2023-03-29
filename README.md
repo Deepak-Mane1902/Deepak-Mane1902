@@ -1,3 +1,4 @@
+![logo](https://github.com/Deepak-Mane1902/Deepak-Mane1902/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Deepak Mane</h1>
 <h3 align="center">A passionate Learner in Tech Field</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
