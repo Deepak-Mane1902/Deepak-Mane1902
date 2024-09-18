@@ -22,6 +22,8 @@ I'm currently Study Computer Science in ( Bachelor of Computer Application) Fiel
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Mane1902&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Mane1902&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=Deepak-Mane1902&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepak-Mane1902&icon=0&color=0)](https://visitcount.itsvg.in)
 
