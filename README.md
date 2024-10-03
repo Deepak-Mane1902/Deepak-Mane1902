@@ -1,6 +1,6 @@
 ![logo](https://github.com/Deepak-Mane1902/Deepak-Mane1902/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Deepak Mane</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate to become " Software developer " </h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-mane1902&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-mane1902" /> </p>
@@ -11,8 +11,11 @@
 
 - ⚡ Fun fact **I love to watch anime**
 
-# 💫 About Me:
-I'm currently Study Computer Science in ( Bachelor of Computer Application) Field.<br>
+# 💫 About Me :-
+
+✨ I'm currently Pursuing **( Bachelor of Computer Application) ** in Computer Science Field.<br>
+✨ Passionate About to Learn More & Explore Some Good Opportunity in Tech.. <br>
+✨ Just Starting to Build Project from Noob to Pro..<br>
 
 
 # 💻 Language Known :
